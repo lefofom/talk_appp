@@ -12,8 +12,10 @@
 				<img class = 'newappIcon' src='images/newapp-icon.png'>
 			</td>
 			<td>
-				<h1 id = "message"><?php echo "Hello World!"; ?></h1>
-				<p class='description'></p> Thanks for creating a <span class="blue">PHP Starter Application</span>.
+				<h1 id = "message"><?php echo "Talk to me man...."; ?></h1>
+				
+				
+				<p class='description'></p> Thanks for talking to me <span class="blue"> i understand!!</span>.
 			</td>
 		</tr>
 	</table>
